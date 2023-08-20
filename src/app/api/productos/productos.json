@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"nombre": "VueJs",
+		"imagen": "/camisetas/vuejs.jpg",
+		"precio": 44
+	},
+	{
+		"id": 2,
+		"nombre": "AngularJs",
+		"imagen": "/camisetas/angularjs.jpg",
+		"precio": 20
+	},
+	{
+		"id": 3,
+		"nombre": "ReactJs",
+		"imagen": "/camisetas/reactjs.jpg",
+		"precio": 57
+	},
+	{
+		"id": 4,
+		"nombre": "Redux",
+		"imagen": "/camisetas/redux.jpg",
+		"precio": 25
+	},
+	{
+		"id": 5,
+		"nombre": "NodeJs",
+		"imagen": "/camisetas/nodejs.jpg",
+		"precio": 51
+	},
+	{
+		"id": 6,
+		"nombre": "Sass",
+		"imagen": "/camisetas/sass.jpg",
+		"precio": 21
+	},
+	{
+		"id": 7,
+		"nombre": "HTML5",
+		"imagen": "/camisetas/html5.jpg",
+		"precio": 33
+	},
+	{
+		"id": 8,
+		"nombre": "GitHub",
+		"imagen": "/camisetas/github.jpg",
+		"precio": 32
+	},
+	{
+		"id": 9,
+		"nombre": "Bulma",
+		"imagen": "/camisetas/bulma.jpg",
+		"precio": 20
+	},
+	{
+		"id": 10,
+		"nombre": "TypeScript",
+		"imagen": "/camisetas/typescript.jpg",
+		"precio": 33
+	},
+	{
+		"id": 11,
+		"nombre": "Drupal",
+		"imagen": "/camisetas/drupal.jpg",
+		"precio": 20
+	},
+	{
+		"id": 12,
+		"nombre": "JavaScript",
+		"imagen": "/camisetas/javascript.jpg",
+		"precio": 39
+	},
+	{
+		"id": 13,
+		"nombre": "GraphQL",
+		"imagen": "/camisetas/graphq.jpg",
+		"precio": 26
+	},
+	{
+		"id": 14,
+		"nombre": "Wordpress",
+		"imagen": "/camisetas/wordpress.jpg",
+		"precio": 25
+	}
+]
